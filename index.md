@@ -41,3 +41,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FadedIndividual/rando
 
 # Lua & Python
 a lil bit of this &amp; a lil bit of that
+
+I see you mortem players...
